@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.druid.socket</groupId>
+  <artifactId>socket-client</artifactId>
+  <versioning>
+    <latest>v1.0.3</latest>
+    <release>v1.0.3</release>
+    <versions>
+      <version>v1.0.3</version>
+    </versions>
+    <lastUpdated>20240105074938</lastUpdated>
+  </versioning>
+</metadata>

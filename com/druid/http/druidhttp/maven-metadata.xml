@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.druid.http</groupId>
+  <artifactId>druidhttp</artifactId>
+  <versioning>
+    <latest>v1.1.6</latest>
+    <release>v1.1.6</release>
+    <versions>
+      <version>v1.1.6</version>
+    </versions>
+    <lastUpdated>20240105080140</lastUpdated>
+  </versioning>
+</metadata>
